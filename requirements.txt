@@ -1,0 +1,11 @@
+# Python dependencies (install with: pip install -r requirements.txt)
+numpy
+opencv-python
+tensorflow
+gpiozero
+RPLCD
+pygame
+gTTS
+
+# Picamera2 is installed through apt on Raspberry Pi OS, not pip:
+#   sudo apt install python3-picamera2

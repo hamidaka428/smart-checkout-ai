@@ -1,0 +1,8 @@
+<?php
+// Copy to config.local.php and fill in your own values. Do NOT commit config.local.php.
+return [
+    'host' => 'localhost',
+    'name' => 'smart_checkout',
+    'user' => 'smart_checkout',
+    'pass' => 'CHANGE_ME',
+];

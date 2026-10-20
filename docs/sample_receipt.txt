@@ -1,0 +1,27 @@
+===========================================
+             SMART CHECKOUT AI             
+          Autonomous Retail System         
+===========================================
+ Date/Time: 2026-10-13 12:36:37
+-------------------------------------------
+Item Description                Price (€)
+-------------------------------------------
+Wireless Computer Mouse             €9.20
+Mechanical Keyboard                €38.35
+Digital Multimeter DT-830B          €7.67
+Office Scissors                     €1.79
+Breadboard                          €2.56
+LED Flashlight                      €5.11
+Raspberry Pi                       €92.03
+9V Battery                          €1.79
+GPIO Extension Board                €6.14
+DC Motor 5V                         €1.79
+Micro Servo SG90                    €3.07
+-------------------------------------------
+Subtotal (Excl. VAT):        €     141.25
+VAT (20%):                   €      28.25
+-------------------------------------------
+TOTAL AMOUNT:                €     169.50
+===========================================
+         Thank you for your purchase!      
+===========================================
