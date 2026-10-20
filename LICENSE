@@ -1,16 +1,33 @@
-MIT License
+NON-COMMERCIAL SOURCE CODE LICENSE
 
-Copyright (c) 2026 hamidaka428
+Copyright (c) 2026 Hamid Karadzha
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Permission
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Permission is granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files (the "Software"), to use, copy,
+modify, and share the Software for personal, educational, research, and other
+non-commercial purposes, subject to the conditions below.
+
+2. Conditions
+
+You may publish and redistribute original or modified copies of the Software
+for non-commercial purposes, provided that you:
+- include this license and the copyright notice in copies or substantial
+  portions of the Software;
+- clearly identify any modifications you make; and
+- do not imply that the original author endorses your modified version.
+
+3. Commercial use prohibited without permission
+
+You may not sell the Software, sell copies or modified versions of it, include
+it in a product or service offered for payment, or otherwise use it for
+commercial purposes without prior written permission from the copyright holder.
+
+For permission to use the Software commercially, contact the copyright holder
+through the contact details published on the author's GitHub profile.
+
+4. No warranty
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -19,3 +36,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+5. Third-party components
+
+This license applies only to material owned by the copyright holder. Third-party
+libraries, datasets, models, and other components remain subject to their own
+licenses and terms.
